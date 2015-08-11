@@ -22,9 +22,9 @@ meta = tvshow , episode, movie
 	
 	
 <item>
-	<name>Menu Choice 1</name>
+	<name>Rebel Wilson</name>
 	<dir>http://</dir>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
+	<icon>http://s3-eu-west-1.amazonaws.com/ee-elleuk/ELLE-UK-May-2015-Rebel-Wilson-Cover-Shoot-02.jpg</icon>
+	<fanart></fanart>
 	<meta></meta>
 </item>
