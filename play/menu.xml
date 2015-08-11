@@ -22,9 +22,25 @@ meta = tvshow , episode, movie
 	
 	
 <item>
-	<name>Rebel Wilson</name>
+	<name>Rebel Wilson1</name>
 	<dir>http://</dir>
 	<icon>http://s3-eu-west-1.amazonaws.com/ee-elleuk/ELLE-UK-May-2015-Rebel-Wilson-Cover-Shoot-02.jpg</icon>
 	<fanart></fanart>
+	<meta></meta>
+</item>
+
+<item>
+	<name>Rebel Wilson 2</name>
+	<dir>http://</dir>
+	<icon>http://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/Elle/2015/03/18/57154/rebel-wilson-elle-australia-white.jpg</icon>
+	<fanart></fanart>
+	<meta></meta>
+</item>
+
+<item>
+	<name>Rebel Wilson 3</name>
+	<dir>http://</dir>
+	<icon>http://assets.rebelcircus.com/blog/wp-content/uploads/2014/12/rebel-wilson-mtv-movie-awards-325.jpg</icon>
+	<fanart>http://dailyvenusdiva.com/wp-content/uploads/2015/04/mgid-uma-image-mtv.jpg</fanart>
 	<meta></meta>
 </item>
