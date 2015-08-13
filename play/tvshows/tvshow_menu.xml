@@ -25,5 +25,5 @@ meta = tvshow , episode, movie
 	<dir>https://raw.githubusercontent.com/fouryoursake/kodi/master/play/tvshows/baywatch/baywatch_Menu.xml</dir>
 	<icon>http://1.bp.blogspot.com/_Su6fKT-VSls/TMG5x2DGZQI/AAAAAAAAAH0/uE8A_7enAro/s1600/Baywatch-tv-09.jpg</icon>
 	<fanart>http://2.bp.blogspot.com/-uETybvYjNpE/UF9Op8gXXOI/AAAAAAAAI8U/VNqZMj6v28Y/s1600/1989_baywatch_006.jpg</fanart>
-	<meta></meta>
+	<meta>tvshow</meta>
 </item>
