@@ -44,3 +44,11 @@ meta = tvshow , episode, movie
 	<fanart>http://dailyvenusdiva.com/wp-content/uploads/2015/04/mgid-uma-image-mtv.jpg</fanart>
 	<meta></meta>
 </item>
+
+<item>
+	<name>Tv Shows</name>
+	<dir>https://raw.githubusercontent.com/fouryoursake/kodi/master/play/tvshows/tvshow_menu.xml</dir>
+	<icon>http://img10.deviantart.net/ab57/i/2012/124/8/0/tv_show_folders_by_jakeset92-d4ykfo5.jpg</icon>
+	<fanart>http://images6.fanpop.com/image/photos/34100000/Tv-Shows-tv-shows-family-34187485-1024-768.jpg</fanart>
+	<meta></meta>
+</item>
