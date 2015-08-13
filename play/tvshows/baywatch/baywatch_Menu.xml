@@ -1,0 +1,21 @@
+<poster>fouryourself</poster>
+<fanart>http://2.bp.blogspot.com/-uETybvYjNpE/UF9Op8gXXOI/AAAAAAAAI8U/VNqZMj6v28Y/s1600/1989_baywatch_006.jpg</fanart>
+<defaultview>504</defaultview>
+
+#default view choices
+list, biglist, thumbnail, posterwrap, fanart, mediainfo, mediainfo2, mediainfo3
+
+====================================================================================
+
+#below is the layout for menu choices
+
+name = name of Menu/Folder
+dir = url to the .xml file for this choices
+icon = url to the icon for this choice
+fanart = url to the fanart image for this choice
+meta = tvshow , episode, movie
+	tvshow = For basic synopsis of tvshows
+	episode = detailed information on show episode number
+	movie = detailed meta information for the movie
+	for normal menu choices can be left like this
+	<meta></meta>
