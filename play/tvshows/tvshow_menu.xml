@@ -20,6 +20,8 @@ meta = tvshow , episode, movie
 	for normal menu choices can be left like this
 	<meta></meta>
 	
+test
+	
 <item>
 	<name>Baywatch</name>
 	<dir>https://raw.githubusercontent.com/fouryoursake/kodi/master/play/tvshows/baywatch/baywatch_Menu.xml</dir>
@@ -27,3 +29,4 @@ meta = tvshow , episode, movie
 	<fanart>http://2.bp.blogspot.com/-uETybvYjNpE/UF9Op8gXXOI/AAAAAAAAI8U/VNqZMj6v28Y/s1600/1989_baywatch_006.jpg</fanart>
 	<meta>tvshow</meta>
 </item>
+
