@@ -1,0 +1,21 @@
+<poster>fouryourself</poster>
+<fanart>http://images6.fanpop.com/image/photos/34100000/Tv-Shows-tv-shows-family-34187485-1024-768.jpg</fanart>
+<defaultview>504</defaultview>
+
+#default view choices
+list, biglist, thumbnail, posterwrap, fanart, mediainfo, mediainfo2, mediainfo3
+
+====================================================================================
+
+#below is the layout for menu choices
+
+name = name of Menu/Folder
+dir = url to the .xml file for this choices
+icon = url to the icon for this choice
+fanart = url to the fanart image for this choice
+meta = tvshow , episode, movie
+	tvshow = For basic synopsis of tvshows
+	episode = detailed information on show episode number
+	movie = detailed meta information for the movie
+	for normal menu choices can be left like this
+	<meta></meta>
