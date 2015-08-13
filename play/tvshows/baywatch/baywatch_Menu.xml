@@ -15,10 +15,10 @@ img = url to the icon for this choice
 url = link to media
 
 if you want to use multi links, you will have to do it a different way.
-<sublinks>
-	<sublink1>http://</sublink>
-	<sublink2>http://</sublink>
-</sublinks>
+<links>
+	<link1>http://</link>
+	<link2>http://</link>
+</links>
 
 	
 	
@@ -26,15 +26,17 @@ if you want to use multi links, you will have to do it a different way.
 <item>
 	<name>test 1</name>
 	<img>http://</img>
-	<url>http://</url>
+	<links>
+		<link1>http://</link>
+	</links>	
 </item>
 
 <item>
 	<name>test2</name>
 	<img>http:</img>
-	<sublinks>
-		<sublink1>http://</sublink>
-		<sublink2>http://</sublink>
-	</sublinks>
+	<links>
+		<link1>http://</link>
+		<link2>http://</link>
+	</links>
 </item>
 		
